@@ -10,7 +10,7 @@
 | --- | --- |
 | [`day01_lab.ipynb`](day01_lab.ipynb) — notebook có output, báo cáo cuối ghi 15/15 kiểm tra đạt và đủ 10 dự đoán | Có |
 | [`lab1_report.json`](lab1_report.json) — kết quả xuất từ notebook, SEED 7311 | Có |
-| Ảnh tính tay: [`hand_calc1.jpg`](hand_calc1.jpg), [`hand_calc2.jpg`](hand_calc2.jpg), [`hand_calc3.jpg`](hand_calc3.jpg) | Có 3 tệp; chưa có tệp tên `hand_calc.jpg` theo mẫu nộp |
+| Ảnh tính tay: [`hand_calc.jpg`](hand_calc.jpg) |Có |
 
 ## 2. Kết quả chính
 
